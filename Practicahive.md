@@ -20,10 +20,10 @@ IV. Confirme que el resultado generó un archivo en el sistema de archivos local
 
 
 V.	¿Qué ocurre si consultamos nuevamente votosPart filtrando o no los campos con la cláusula WHERE?
-![](hivepregunta5_1.png 'label')
+![](hivepregunta5.png 'label')
 
 VI.	Encuentre el promedio de percepción de conocimiento de los candidatos según las casas encuestadoras 1, 3 y 6 
-![](hivepregunta6.png 'label')
+![](hivepregunta5_1.png 'label')
 
 
 
