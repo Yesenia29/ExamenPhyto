@@ -10,7 +10,9 @@
 
 I.	¿Cuántos distritos electorales contiene el archivo votacion.csv?
 
-```Mapper1.py
+```
+  GNU nano 2.9.3                     Mapper1.py
+
 import sys
 
 for Line in sys.stdin:
@@ -39,9 +41,6 @@ if DistAnt != None:
   Acumulados += 1
 
 print ('1. El número de registros es {0}' .format(Acumulados))
-
-^G Get Help  ^O Write Out ^W Where Is  ^K Cut Text  ^J Justify   ^C Cur Pos
-^X Exit      ^R Read File ^\ Replace   ^U Uncut Text^T To Linter ^_ Go To Line
 
 
 ```
